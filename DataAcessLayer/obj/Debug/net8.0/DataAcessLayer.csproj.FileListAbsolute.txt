@@ -1,0 +1,13 @@
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\bin\Debug\net8.0\AppSetting.json
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.deps.json
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.dll
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.pdb
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.AssemblyReference.cache
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfoInputs.cache
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfo.cs
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.dll
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\refint\DataAcessLayer.dll
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.pdb
+F:\Projects.me\To_Do_List ADO Project\DataAcessLayer\obj\Debug\net8.0\ref\DataAcessLayer.dll

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects.me\\To_Do_List ADO Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69169271-7001-44E7-BC61-81C88851CE2C}|To_Do_List\\To_Do_List.csproj|f:\\projects.me\\to_do_list ado project\\to_do_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69169271-7001-44E7-BC61-81C88851CE2C}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69169271-7001-44E7-BC61-81C88851CE2C}|To_Do_List\\To_Do_List.csproj|f:\\projects.me\\to_do_list ado project\\to_do_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69169271-7001-44E7-BC61-81C88851CE2C}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513F2B24-ED36-4A02-8308-132AA2217C4B}|DataAcessLayer\\DataAcessLayer.csproj|f:\\projects.me\\to_do_list ado project\\dataacesslayer\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513F2B24-ED36-4A02-8308-132AA2217C4B}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1532047E-7846-4B18-B3DD-F51F22538C6E}|DataBusinesLayer\\DataBusinesLayer.csproj|f:\\projects.me\\to_do_list ado project\\databusineslayer\\entitymnager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1532047E-7846-4B18-B3DD-F51F22538C6E}|DataBusinesLayer\\DataBusinesLayer.csproj|solutionrelative:databusineslayer\\entitymnager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "F:\\Projects.me\\To_Do_List ADO Project\\DataAcessLayer\\DBManager.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\DBManager.cs",
+              "ToolTip": "F:\\Projects.me\\To_Do_List ADO Project\\DataAcessLayer\\DBManager.cs",
+              "RelativeToolTip": "DataAcessLayer\\DBManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:26:46.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Projects.me\\To_Do_List ADO Project\\To_Do_List\\Form1.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Form1.cs",
+              "ToolTip": "F:\\Projects.me\\To_Do_List ADO Project\\To_Do_List\\Form1.cs",
+              "RelativeToolTip": "To_Do_List\\Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwDoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:09:17.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Projects.me\\To_Do_List ADO Project\\To_Do_List\\Form1.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Form1.cs",
+              "ToolTip": "F:\\Projects.me\\To_Do_List ADO Project\\To_Do_List\\Form1.cs [Design]",
+              "RelativeToolTip": "To_Do_List\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T20:09:13.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "F:\\Projects.me\\To_Do_List ADO Project\\DataBusinesLayer\\EntityMnager\\TaskManager.cs",
+              "RelativeDocumentMoniker": "DataBusinesLayer\\EntityMnager\\TaskManager.cs",
+              "ToolTip": "F:\\Projects.me\\To_Do_List ADO Project\\DataBusinesLayer\\EntityMnager\\TaskManager.cs",
+              "RelativeToolTip": "DataBusinesLayer\\EntityMnager\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T19:57:05.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

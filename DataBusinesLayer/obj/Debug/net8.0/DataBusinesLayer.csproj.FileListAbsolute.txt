@@ -1,0 +1,16 @@
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\bin\Debug\net8.0\AppSetting.json
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\bin\Debug\net8.0\DataBusinesLayer.deps.json
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\bin\Debug\net8.0\DataBusinesLayer.dll
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\bin\Debug\net8.0\DataBusinesLayer.pdb
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\bin\Debug\net8.0\DataAcessLayer.dll
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\bin\Debug\net8.0\DataAcessLayer.pdb
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\DataBusinesLayer.csproj.AssemblyReference.cache
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\DataBusinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\DataBusinesLayer.AssemblyInfoInputs.cache
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\DataBusinesLayer.AssemblyInfo.cs
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\DataBusinesLayer.csproj.CoreCompileInputs.cache
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\DataBusi.076F8693.Up2Date
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\DataBusinesLayer.dll
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\refint\DataBusinesLayer.dll
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\DataBusinesLayer.pdb
+F:\Projects.me\To_Do_List ADO Project\DataBusinesLayer\obj\Debug\net8.0\ref\DataBusinesLayer.dll

@@ -1,0 +1,4 @@
+
+{
+    "conn1": "server=.; database=To_Do_List;integrated security=true;trustservercertificate=true;"
+}
