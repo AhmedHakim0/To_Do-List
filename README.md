@@ -36,7 +36,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/AhmedHakim0/To_Do-List.git)
 Open the project in Visual Studio.
 Update the database connection string in App.config if needed.
 Set up the database:
